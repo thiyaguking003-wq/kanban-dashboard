@@ -70,4 +70,5 @@ export default defineConfig([
     },
   },
 ])
-```
+Jenkins CI/CD automatic polling test - 27 Nov 2026
+Test Jenkins automatic SCM polling
